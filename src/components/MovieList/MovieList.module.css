@@ -1,0 +1,18 @@
+.movieList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.listItem {
+  width: 200px;
+  text-align: center;
+}
+
+.imageMovie {
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
